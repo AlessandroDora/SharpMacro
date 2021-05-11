@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="87cm" height="33cm" viewBox="285 -89 1728 641" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="518.099" y="208.324" width="294.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="518.099" y="208.324" width="294.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="665.549" y="227.324">SharpMacro</text>
+    <rect style="fill: #ffffff" x="518.099" y="236.324" width="294.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="518.099" y="236.324" width="294.9" height="8"/>
+    <rect style="fill: #ffffff" x="518.099" y="244.324" width="294.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="518.099" y="244.324" width="294.9" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="520.599" y="258.324">+SharpMacro()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="520.599" y="274.324">+actionPerformed(e:ActionEvent): void</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="912.411" y="-59.0267" width="73.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="912.411" y="-59.0267" width="73.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="949.111" y="-40.0267">JFrame</text>
+    <rect style="fill: #ffffff" x="912.411" y="-31.0267" width="73.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="912.411" y="-31.0267" width="73.4" height="8"/>
+    <rect style="fill: #ffffff" x="912.411" y="-23.0267" width="73.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="912.411" y="-23.0267" width="73.4" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="949.111,3.20936 949.111,104.649 665.549,104.649 665.549,208.324 "/>
+    <polygon style="fill: #ffffff" points="957.111,3.20936 949.111,-12.7906 941.111,3.20936 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="957.111,3.20936 949.111,-12.7906 941.111,3.20936 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="807.33" y="101.649">&lt;&lt;extends&gt;&gt;</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="286.381,28.6623 415.581,28.6623 427.581,40.6623 427.581,62.6623 286.381,62.6623 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="286.381,28.6623 415.581,28.6623 427.581,40.6623 427.581,62.6623 286.381,62.6623 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 0.5; stroke: #000000" points="415.581,28.6623 415.581,40.6623 427.581,40.6623 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="292.881" y="53.0623">
+      <tspan x="292.881" y="53.0623"> ActionListener </tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="446.326,45.6623 481.094,45.6623 481.094,222.324 518.099,222.324 "/>
+    <polygon style="fill: #ffffff" points="446.326,37.6623 430.326,45.6623 446.326,53.6623 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="446.326,37.6623 430.326,45.6623 446.326,53.6623 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1034.89" y="207.013" width="418.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="1034.89" y="207.013" width="418.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1243.94" y="226.013">Record</text>
+    <rect style="fill: #ffffff" x="1034.89" y="235.013" width="418.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="1034.89" y="235.013" width="418.1" height="8"/>
+    <rect style="fill: #ffffff" x="1034.89" y="243.013" width="418.1" height="308"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="1034.89" y="243.013" width="418.1" height="308"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="257.013">+Record()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="273.013">+actionPerformed(e:ActionEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="289.013">+itemStateChanged(e:ItemEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="305.013">+nativeKeyPressed(e:NativeKeyEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="321.013">+nativeKeyReleased(e:NativeKeyEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="337.013">+nativeKeyTyped(e:NativeKeyEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="353.013">+nativeMouseClicked(e:NativeMouseEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="369.013">+nativeMousePressed(e:NativeMouseEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="385.013">+nativeMouseReleased(e:NativeMouseEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="401.013">+nativeMouseMoved(e:NativeMouseEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="417.013">+nativeMouseDragged(e:NativeMouseEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="433.013">+nativeMouseWheelMoved(e:NativeMouseWheelEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="449.013">+windowActivated(e:WindowEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="465.013">+windowClosing(e:WindowEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="481.013">+windowDeactivated(e:WindowEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="497.013">+windowDeiconified(e:WindowEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="513.013">+windowIconified(e:WindowEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="529.013">+windowOpened(e:WindowEvent): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1037.39" y="545.013">+windowOpened(e:WindowEvent): void</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1109.46,-88.0473 2000.96,-88.0473 2012.96,-76.0473 2012.96,-54.0473 1109.46,-54.0473 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="1109.46,-88.0473 2000.96,-88.0473 2012.96,-76.0473 2012.96,-54.0473 1109.46,-54.0473 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 0.5; stroke: #000000" points="2000.96,-88.0473 2000.96,-76.0473 2012.96,-76.0473 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1115.96" y="-63.6473">
+      <tspan x="1115.96" y="-63.6473">ActionListener, ItemListener, NativeKeyListener, NativeMouseInputListener, NativeMouseWheelListener, WindowListener</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="1561.21,-35.3027 1561.21,221.013 1452.99,221.013 "/>
+    <polygon style="fill: #ffffff" points="1569.21,-35.3027 1561.21,-51.3027 1553.21,-35.3027 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1569.21,-35.3027 1561.21,-51.3027 1553.21,-35.3027 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1507.1" y="218.013">&lt;&lt;implements&gt;&gt;</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="949.111,3.71485 949.111,104.246 1243.94,104.246 1243.94,207.013 "/>
+    <polygon style="fill: #ffffff" points="957.111,3.71485 949.111,-12.2851 941.111,3.71485 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="957.111,3.71485 949.111,-12.2851 941.111,3.71485 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1096.53" y="101.246">&lt;&lt;extends&gt;&gt;</text>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+-javax.swing.*
+-org.jnativehook.*
+-java.awt.event.*
+
+
+-https://app.creately.com/diagram/NPzf4Dm5FM9/view

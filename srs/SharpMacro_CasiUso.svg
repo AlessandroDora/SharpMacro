@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="42cm" height="64cm" viewBox="106 -16 822 1270" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #ffffff" cx="132.728" cy="282.706" rx="6" ry="6"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="132.728" cy="282.706" rx="6" ry="6"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="108.728" y1="294.706" x2="156.728" y2="294.706"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="132.728" y1="288.706" x2="132.728" y2="318.706"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="132.728" y1="318.706" x2="108.728" y2="344.706"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="132.728" y1="318.706" x2="156.728" y2="344.706"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="132.728" y="368.606">
+      <tspan x="132.728" y="368.606">Utente</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="242" y="20" width="650.689" height="578.312"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="242" y="20" width="650.689" height="578.312"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="344.375" cy="71.7917" rx="92.375" ry="30.7917"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="344.375" cy="71.7917" rx="92.375" ry="30.7917"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="344.375" y="75.6917">
+      <tspan x="344.375" y="75.6917">Chiudere Programma</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="341.725" cy="135.242" rx="72.725" ry="24.2417"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="341.725" cy="135.242" rx="72.725" ry="24.2417"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="341.725" y="139.142">
+      <tspan x="341.725" y="139.142">Ridurre a icona</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="242.159,-14.5796 394.459,-14.5796 406.459,-2.57955 406.459,19.4204 242.159,19.4204 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="242.159,-14.5796 394.459,-14.5796 406.459,-2.57955 406.459,19.4204 242.159,19.4204 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="394.459,-14.5796 394.459,-2.57955 406.459,-2.57955 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="249.159" y="10.3204">
+      <tspan x="249.159" y="10.3204">Finestra Principale</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="157.728" y1="318.706" x2="269" y2="135.242"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="157.728" y1="318.706" x2="252" y2="71.7916"/>
+  <g>
+    <rect style="fill: #ffffff" x="211.626" y="766.04" width="715.87" height="486.71"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="211.626" y="766.04" width="715.87" height="486.71"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="211.795,731.224 387.195,731.224 399.195,743.224 399.195,765.224 211.795,765.224 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="211.795,731.224 387.195,731.224 399.195,743.224 399.195,765.224 211.795,765.224 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="387.195,731.224 387.195,743.224 399.195,743.224 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="218.795" y="756.124">
+      <tspan x="218.795" y="756.124">Finestra Registrazione</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="383.792" cy="270.128" rx="78.9" ry="26.3"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="383.792" cy="270.128" rx="78.9" ry="26.3"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="383.792" y="274.028">
+      <tspan x="383.792" y="274.028">Modificare Macro</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="399.123" cy="386.642" rx="79.525" ry="26.5083"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="399.123" cy="386.642" rx="79.525" ry="26.5083"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="399.123" y="390.542">
+      <tspan x="399.123" y="390.542">Cancellare Macro</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="515.481" cy="331.177" rx="89.625" ry="29.875"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="515.481" cy="331.177" rx="89.625" ry="29.875"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="515.481" y="335.077">
+      <tspan x="515.481" y="335.077">Creare Nuova Macro</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="545.158" cy="550.935" rx="67.9" ry="22.6333"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="545.158" cy="550.935" rx="67.9" ry="22.6333"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="545.158" y="554.835">
+      <tspan x="545.158" y="554.835">Registra Click</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="763.469" cy="331.577" rx="74.625" ry="24.875"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="763.469" cy="331.577" rx="74.625" ry="24.875"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="763.469" y="335.477">
+      <tspan x="763.469" y="335.477">Scegliere Nome</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="616.4" cy="411.147" rx="107.35" ry="35.7833"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="616.4" cy="411.147" rx="107.35" ry="35.7833"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="616.4" y="415.047">
+      <tspan x="616.4" y="415.047">Registra Mouse e Tastiera</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="537.902" cy="86.8535" rx="65.15" ry="21.7167"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="537.902" cy="86.8535" rx="65.15" ry="21.7167"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="537.902" y="90.7535">
+      <tspan x="537.902" y="90.7535">Nome macro</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="678.03" cy="125.003" rx="90.8" ry="30.2667"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="678.03" cy="125.003" rx="90.8" ry="30.2667"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="678.03" y="128.903">
+      <tspan x="678.03" y="128.903">Modificare Sequenza</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="539.478" y="188.686">
+    <tspan x="539.478" y="188.686">&lt;&lt;extend&gt;&gt;</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x1="605.106" y1="331.176" x2="684.372" y2="331.555"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="676.584,336.517 686.608,331.565 676.632,326.518 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="595.962" y="353.704">
+    <tspan x="595.962" y="353.704">&lt;&lt;include&gt;&gt;</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="157.728" y1="318.706" x2="304.892" y2="270.128"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="157.728" y1="318.706" x2="319.598" y2="386.642"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="157.728" y1="318.706" x2="425.856" y2="331.176"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="358.755" cy="483.531" rx="84.225" ry="28.075"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="358.755" cy="483.531" rx="84.225" ry="28.075"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="358.755" y="487.431">
+      <tspan x="358.755" y="487.431">Seleziona Modalità</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="157.728" y1="318.706" x2="274.53" y2="483.53"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="639.093" cy="481.988" rx="78.575" ry="26.1917"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="639.093" cy="481.988" rx="78.575" ry="26.1917"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="639.093" y="485.888">
+      <tspan x="639.093" y="485.888">Registra Tastiera</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="477.258,550.936 466.458,550.936 466.458,483.53 449.685,483.53 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="462.333,478.53 446.333,483.53 462.333,488.53 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="560.518,481.988 468.64,481.988 468.64,483.53 449.685,483.53 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="462.333,478.53 446.333,483.53 462.333,488.53 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="509.05,411.148 466.328,411.148 466.328,483.53 449.685,483.53 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="462.333,478.53 446.333,483.53 462.333,488.53 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="467.222" y="495.818">
+    <tspan x="467.222" y="495.818">&lt;&lt;extend&gt;&gt;</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="710.3" cy="232.1" rx="81.3" ry="27.1"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="710.3" cy="232.1" rx="81.3" ry="27.1"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="710.3" y="236">
+      <tspan x="710.3" y="236">Modificare hotkey</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="587.23,125.003 538.058,125.003 538.058,270.128 469.397,270.128 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="482.045,265.128 466.045,270.128 482.045,275.128 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="537.902,108.57 537.902,270.128 469.397,270.128 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="482.045,265.128 466.045,270.128 482.045,275.128 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="629,232.1 538.058,232.1 538.058,270.128 469.397,270.128 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="482.045,265.128 466.045,270.128 482.045,275.128 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="141" cy="886" rx="6" ry="6"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="141" cy="886" rx="6" ry="6"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="117" y1="898" x2="165" y2="898"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="141" y1="892" x2="141" y2="922"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="141" y1="922" x2="117" y2="948"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="141" y1="922" x2="165" y2="948"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="141" y="971.9">
+      <tspan x="141" y="971.9">Utente</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="332.375" cy="826.125" rx="87.375" ry="29.125"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="332.375" cy="826.125" rx="87.375" ry="29.125"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="332.375" y="830.025">
+      <tspan x="332.375" y="830.025">Avvia Registrazione</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="344.975" cy="905.325" rx="99.975" ry="33.325"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="344.975" cy="905.325" rx="99.975" ry="33.325"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="344.975" y="909.225">
+      <tspan x="344.975" y="909.225">Riproduci Registrazione</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="343.575" cy="1095.86" rx="95.575" ry="31.8583"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="343.575" cy="1095.86" rx="95.575" ry="31.8583"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="343.575" y="1099.76">
+      <tspan x="343.575" y="1099.76">Inserire Intervalli Click</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="360.9" cy="1002.63" rx="115.9" ry="38.6333"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="360.9" cy="1002.63" rx="115.9" ry="38.6333"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360.9" y="1006.53">
+      <tspan x="360.9" y="1006.53">Selezione Processo Dedicato</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="363.175" cy="1194.81" rx="114.175" ry="38.0583"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="363.175" cy="1194.81" rx="114.175" ry="38.0583"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="363.175" y="1198.71">
+      <tspan x="363.175" y="1198.71">Seleziona Numero Iterazioni</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="166" y1="922" x2="245" y2="826.124"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="166" y1="922" x2="245" y2="905.326"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="166" y1="922" x2="248" y2="1095.86"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="166" y1="922" x2="245" y2="1002.63"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="166" y1="922" x2="249" y2="1194.81"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="608.1" cy="825.783" rx="90.1" ry="30.0333"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="608.1" cy="825.783" rx="90.1" ry="30.0333"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="608.1" y="829.683">
+      <tspan x="608.1" y="829.683">Ferma Registrazione</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="518,825.783 472.875,825.783 472.875,826.125 426.455,826.125 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="439.103,821.125 423.103,826.125 439.103,831.125 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="842.89" cy="825.57" rx="74.25" ry="24.75"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="842.89" cy="825.57" rx="74.25" ry="24.75"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="842.89" y="829.47">
+      <tspan x="842.89" y="829.47">Inserisci Chiave</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="648.741" cy="905.044" rx="119.375" ry="39.7917"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="648.741" cy="905.044" rx="119.375" ry="39.7917"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="648.741" y="908.944">
+      <tspan x="648.741" y="908.944">Metti in pausa la riproduzione</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="698.2,825.783 729.42,825.783 729.42,825.57 761.935,825.57 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="749.287,830.57 765.287,825.57 749.287,820.57 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="529.366,905.044 488.658,905.044 488.658,905.325 451.655,905.325 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="464.303,900.325 448.303,905.325 464.303,910.325 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="431.346" y="810.104">
+    <tspan x="431.346" y="810.104">&lt;&lt;extend&gt;&gt;</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="446.286" y="886.548">
+    <tspan x="446.286" y="886.548">&lt;&lt;extend&gt;&gt;</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="688.706" y="805.742">
+    <tspan x="688.706" y="805.742">&lt;&lt;include&gt;&gt;</tspan>
+  </text>
+</svg>

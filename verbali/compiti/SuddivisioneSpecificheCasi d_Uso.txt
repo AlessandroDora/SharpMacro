@@ -1,0 +1,7 @@
+Singh - Chiudere Programma, Ridurre a icona
+Dora - Creare Nuova Macro, Cancellare Macro
+Verardo - Modificare Macro, Avvia Registrazione
+Zaina - Riproduci Registrazione, Inserisci Intervallo di Click
+David - Selezione Processo Dedicato, Seleziona Numero Iterazioni
+
+Selezione Modalità → DoraVerardo decidete chi di voi 2 lo fa (io direi Dora)
